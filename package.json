@@ -9,6 +9,7 @@
     "license": "ISC",
     "description": "",
     "dependencies": {
-        "nodejs": "file:"
+        "nodejs": "file:",
+        "url": "^0.11.4"
     }
 }
